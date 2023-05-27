@@ -26,7 +26,7 @@ The files are organized by unit number, and each file includes the exercise numb
 
 ## Final tasks
 In this repository, you will find the solutions for the final tasks of each unit in the "next.py"      
-online course. Each unit's final task focuses on a specific topic and requires developing a program or solve a programming    
-problem using the concepts learned in that unit. the solutions for each unit's final task can be found as the last exercise   
-python file in each unit's directory.    
+online course. Each unit's final task focuses on a specific topic and requires developing a program
+or solve a programming problem using the concepts learned in that unit. the solutions for each
+unit's final task can be found as the last exercise python file in each unit's directory.    
 
