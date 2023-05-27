@@ -16,7 +16,7 @@ In this project, you can find the Python files with the answers to the course ex
 The files are organized by unit number, and each file includes the exercise number and its solution.  
 
 ### The topics covered in the course include:
-- One-Liners - **unit1** 
+- [One-Liners](unit1) - **unit1** 
 - Object Oriented Programming - **unit2** 
 - Exceptions - **unit3**
 - Generators - **unit4**
@@ -30,8 +30,8 @@ online course. Each unit's final task focuses on a specific topic and requires d
 or solve a programming problem using the concepts learned in that unit. the solutions for each
 unit's final task can be found as the last exercise python file in each unit's directory.      
 - **unit1** - [exe_1.5.py](unit1/exe_1.5.py)
-- **unit2** - exe_2.5.py
-- **unit3** - exe_3.4.py
-- **unit4** - exe_4.4.py
-- **unit5** - exe_5.4.py
-- **unit6** - exe_6.4.py
+- **unit2** - [exe_2.5.py](unit1/exe_1.5.py)
+- **unit3** - [exe_3.4.py](unit1/exe_1.5.py)
+- **unit4** - [exe_4.4.py](unit1/exe_1.5.py)
+- **unit5** - [exe_5.4.py](unit1/exe_1.5.py)
+- **unit6** - [exe_6.4.py](unit1/exe_1.5.py)
